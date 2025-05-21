@@ -2,7 +2,7 @@
 
 > Only tested on Shopee Indonesia
 
-Just run it in your browser that's already logged into Shopee.
+Just run it in your browser that's already logged into Shopee. It should create a csv file after all reviews are fetched.
 
 These params are from the logged get_ratings request. Not really sure on what each param does, but what I know is `filter:1` is to only return ratings that has comments
 ```
